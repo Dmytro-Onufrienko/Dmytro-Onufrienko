@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Dmytro Onufrienko 👋
 
 ## I'm a Full Stack JS Developer!
 
