@@ -1,22 +1,27 @@
-### Hi there, I'm Dmytro Onufrienko 👋
+### Hi there, I'm Dmytro Onufriienko 👋
 
-## I'm a Full Stack JS Developer!
+## I'm a Full Stack JS/TS Developer!
 
-- 🌱 I’m currently learning everything related to JS
+- 🌱 I’m currently deep diving into advanced **TypeScript**, **NestJS**, and modern web architectures.
+- 🔭 When I'm not writing code, I enjoy working on game modifications (like S.T.A.L.K.E.R. 2 or Fallout 4) and building autonomous electronics using Arduino.
+- 🪴 Fun fact: I'm a big plant enthusiast and enjoy growing Monstera and shaping Bonsai trees!
 
-[<img src="https://docs.nestjs.com/assets/logo-small.svg" alt="image" width="30" height="30">](https://nestjs.com/ "nestjs") [<img src="https://react.dev/favicon.ico" alt="image" width="30" height="30">]((https://react.dev/ "react") [<img src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" alt="image" width="30" height="30">]((https://www.typescriptlang.org/ "typescript") [<img src="https://graphql.org/favicon.ico" alt="image" width="30" height="30">]((https://graphql.org/ "graphql") [<img src="https://nodejs.org/static/images/favicons/favicon.png" alt="image" width="30" height="30">]((https://nodejs.org/ "nodejs") [<img src="https://expressjs.com/images/favicon.png" alt="image" width="30" height="30">]((https://expressjs.com/ "expressjs") [<img src="https://sass-lang.com//assets/img/logos/logo.svg" alt="image" width="30" height="30">]((https://sass-lang.com/ "sass") [<img src="https://www.conventionalcommits.org/favicon.ico" alt="image" width="30" height="30">]((https://www.conventionalcommits.org/ "conventionalcommits") [<img src="https://redux.js.org/img/favicon/favicon.ico" alt="image" width="30" height="30">]((https://redux.js.org/ "redux")
+---
 
-<!--
-**Dmytro-Onufrienko/Dmytro-Onufrienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-- 🔭 I’m currently working on ...
+**Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Tools:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
